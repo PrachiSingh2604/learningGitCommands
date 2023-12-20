@@ -1,3 +1,4 @@
 # learningGitCommands
-This is my first git reposotory
+This is my first git repository
+
 Author - Prachi Singh
